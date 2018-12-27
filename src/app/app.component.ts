@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'd20-pc-maker';
+  title = 'PC builder: D&D 5E & PF 1E';
 }
